@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multidimentional Arrays", "Multidimentional Arrays\Multidimentional Arrays.csproj", "{94271ABA-75E7-429E-B63B-93227D24FEF1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Squares in Matrix", "Squares in Matrix\Squares in Matrix.csproj", "{E8D72E21-4425-4D99-B292-ABE9FF53E62A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximal Sum", "Maximal Sum\Maximal Sum.csproj", "{C13EACB4-5B44-4521-99CF-1AAC98258A12}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix Shuffle", "Matrix Shuffle\Matrix Shuffle.csproj", "{46758514-FFBA-4463-805E-D4B2E3E689A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jagged Array Manipulator", "ConsoleApp1\Jagged Array Manipulator.csproj", "{35968FDB-E579-4801-A554-467136634E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake Moves", "Snake Moves\Snake Moves.csproj", "{B2FB8106-7752-4057-B127-2BE4933E4DC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knight Game", "Knight Game\Knight Game.csproj", "{B7F493FE-6092-4551-B33E-B0C8B4FD07F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94271ABA-75E7-429E-B63B-93227D24FEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94271ABA-75E7-429E-B63B-93227D24FEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94271ABA-75E7-429E-B63B-93227D24FEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94271ABA-75E7-429E-B63B-93227D24FEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D72E21-4425-4D99-B292-ABE9FF53E62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D72E21-4425-4D99-B292-ABE9FF53E62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D72E21-4425-4D99-B292-ABE9FF53E62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D72E21-4425-4D99-B292-ABE9FF53E62A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13EACB4-5B44-4521-99CF-1AAC98258A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13EACB4-5B44-4521-99CF-1AAC98258A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13EACB4-5B44-4521-99CF-1AAC98258A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13EACB4-5B44-4521-99CF-1AAC98258A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46758514-FFBA-4463-805E-D4B2E3E689A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46758514-FFBA-4463-805E-D4B2E3E689A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46758514-FFBA-4463-805E-D4B2E3E689A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46758514-FFBA-4463-805E-D4B2E3E689A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35968FDB-E579-4801-A554-467136634E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35968FDB-E579-4801-A554-467136634E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35968FDB-E579-4801-A554-467136634E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35968FDB-E579-4801-A554-467136634E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2FB8106-7752-4057-B127-2BE4933E4DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FB8106-7752-4057-B127-2BE4933E4DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FB8106-7752-4057-B127-2BE4933E4DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FB8106-7752-4057-B127-2BE4933E4DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F493FE-6092-4551-B33E-B0C8B4FD07F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F493FE-6092-4551-B33E-B0C8B4FD07F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F493FE-6092-4551-B33E-B0C8B4FD07F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F493FE-6092-4551-B33E-B0C8B4FD07F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A72682-EEF5-4E81-884E-AED8239FAB0F}
+	EndGlobalSection
+EndGlobal
